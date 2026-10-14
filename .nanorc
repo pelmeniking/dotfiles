@@ -1,0 +1,14 @@
+## Theming
+set titlecolor brightcyan,black
+set statuscolor brightwhite,black
+set keycolor brightmagenta
+set functioncolor brightcyan
+set numbercolor brightgreen
+##Config
+set linenumbers
+set constantshow
+set positionlog
+set indicator
+set autoindent
+set stateflags
+include "/usr/share/nano/*.nanorc"
